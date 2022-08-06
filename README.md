@@ -1,0 +1,2 @@
+# Facial_Emotion_Recognition
+This project is based on multi class image classification problem having 7 classes ( Neutral, angry, sad, happy, fear, surprise, disgust). The model is used to identify facial expressions of human being . The deep learning model is trained on a data set containing 35,000 images of human face download from kaggle. A pre-trained model "MobileNet" is used for deep neural network training.
